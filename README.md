@@ -1,4 +1,4 @@
-C/C++ commandline application that encodes a set of WAV files to MP3
+C++ commandline application that encodes a set of WAV files to MP3
 1. Uses all available CPU cores for the encoding process in an efficient way by utilizing multi-threading
 2. Statically link to lame encoder library
 3. The resulting MP3 files are placed within the same directory as the source WAV files, the filename extension should be changed appropriately to .MP3
