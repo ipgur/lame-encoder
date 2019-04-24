@@ -8,7 +8,7 @@ C/C++ commandline application that encodes a set of WAV files to MP3
 ====
 
     How to compile & test (tested on CentOS Linux release 7.5.1804 and MacOS)
-====
+
 1) cmake .
 2) make -j4 (use more than 4 cores if available to speed up make)
 3) ./lame_encoder testdata/
