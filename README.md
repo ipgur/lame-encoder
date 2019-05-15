@@ -1,3 +1,9 @@
+
+Name     | Status |
+-------- | ------ |
+BetterCode    | [![BCH compliance](https://bettercodehub.com/edge/badge/ipgur/lame-encoder?branch=master)](https://bettercodehub.com/)|
+
+
 C++ commandline application that encodes a set of WAV files to MP3
 1. Uses all available CPU cores for the encoding process in an efficient way by utilizing multi-threading
 2. Statically link to lame encoder library
